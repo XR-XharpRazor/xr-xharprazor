@@ -1,8 +1,12 @@
 # NIEWO OwO/
 
+
+
 ## Basic Stuffs
 - I am a Creator since 2007, most of the time I upload tools and content in the name of my friend Group (Memo2007Ultra)
 - And I am also a Computer Science Graduate from South Dakota State University
+
+
 
 ## Things I make and What tools I use
 I usually categorize these things into 3 Parts : Art, Games, and Education
@@ -24,12 +28,15 @@ And sometimes I make WebApps to visualize or make some concepts easier to unders
 *(HTML, CSS, Js, GitHubPages, Wix)*
 
 
+
 ## Currently Working On
 *today's Date is 2025-12-02, as things may change from time to time*
 - a Standalone Unity Game: R3570R3
 - maintaining my team's Website: https://memo2007ultra.wixsite.com/m2007u-main
 - 3D modeling some architectures for a friend's project
 - turning stand-by-ready soundtracks into Music Videos
+
+
 
 ## How to Reach me
 - Twitter/X : https://x.com/XR_XharpRazor
