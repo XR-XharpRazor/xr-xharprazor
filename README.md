@@ -2,13 +2,11 @@
 
 <br>
 <br>
-<br>
 
 ## 🖊️ Basic Stuffs
 - I am a Creator since 2007, most of the time I upload tools and content in the name of my friend Group (Memo2007Ultra)
 - And I am also a Computer Science Graduate from South Dakota State University
 
-<br>
 <br>
 <br>
 
@@ -33,7 +31,6 @@ And sometimes I make WebApps to visualize or make some concepts easier to unders
 
 <br>
 <br>
-<br>
 
 ## 🎯 Currently Working On
 *today's Date is 2025-12-02, as things may change from time to time*
@@ -42,7 +39,6 @@ And sometimes I make WebApps to visualize or make some concepts easier to unders
 - 3D modeling some architectures for a friend's project
 - turning stand-by-ready soundtracks into Music Videos
 
-<br>
 <br>
 <br>
 
