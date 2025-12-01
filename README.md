@@ -20,7 +20,7 @@ I usually categorize these things into 3 Parts : Art, Games, and Education
 - 3D Modeling and Building and Shader Coding *(Blender, Unity, HLSL)*
 - Music Composing *(FLStudio)*
 - Music Video Animation *(Unity)*
-- WebApp Artistic Tools *(HTML, CSS, Js, GitHubPages, Wix)*
+- WebApp Artistic Tools *(HTML, CSS, Js, WebAudioAPI, GitHubPages, Wix)*
 
 ### 👾 Games
 - Most of the time, simple WebApp Games *(HTML, CSS, Js)*, no accounts, no ads
@@ -29,7 +29,7 @@ I usually categorize these things into 3 Parts : Art, Games, and Education
 ### 🪴 Education
 I usually dive into either Math or Computer Science,
 And sometimes I make WebApps to visualize or make some concepts easier to understand
-*(HTML, CSS, Js, GitHubPages, Wix)*
+*(HTML, CSS, Js, MathJax, GitHubPages, Wix, C++)*
 
 <br>
 <br>
