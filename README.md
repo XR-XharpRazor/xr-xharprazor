@@ -36,7 +36,7 @@ And sometimes I make WebApps to visualize or make some concepts easier to unders
 *today's Date is 2025-12-02, as things may change from time to time*
 - a Standalone Unity Game: R3570R3
 - maintaining my team's Website: https://memo2007ultra.wixsite.com/m2007u-main
-- 3D modeling some architectures for a friend's project
+- a VRChat Teamwork based Puzzle World (you need atleast 4 players)
 - turning stand-by-ready soundtracks into Music Videos
 
 <br>
